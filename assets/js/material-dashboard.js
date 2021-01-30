@@ -198,8 +198,8 @@ md = {
         lineSmooth: Chartist.Interpolation.cardinal({
           tension: 0
         }),
-        low: 0,
-        high: 50, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
+        low: 100,
+        high: 200, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
         chartPadding: {
           top: 0,
           right: 0,
