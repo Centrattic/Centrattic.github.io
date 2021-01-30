@@ -313,7 +313,7 @@ md = {
       /* ----------==========     Daily Sales Chart initialization    ==========---------- */
 
       dataDailySalesChart = {
-        labels: ['M', 'T', 'W', 'T', 'F', 'S', 'S'],
+        labels: ['Mu', 'T', 'W', 'T', 'F', 'S', 'S'],
         series: [
           [164, 167, 170, 169, 173, 171, 170]
         ]
